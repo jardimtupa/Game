@@ -28,6 +28,6 @@ Os dispositivos são colocados na respectivas saídas como ilustrado na figura a
 # Funcionalidade do Projeto
 A aplicação escolhe de forma aleatória dois números que são multiplicados e exibidos automaticamente na inicialização. Feito isso, a aplicação espera a entrada de dados, no caso a resposta do usuário, sinalizando sua escolha como resposta. Quando feita tal ação será emitido um som sinalizando o aguardo do pressionamento do botão "#" da tela Matriarcal para fazer o próximo passoque consiste na tomada de decisão, baseada na verificação da importação da resposta. Se a resposta for a correta sera exibida uma mensagem característa de acerto, caso contrário, a mensagem característa sera de equivoco. 
 
-![Resposta Correta](https://github.com/jardimtupa/game/blob/master/imagens/correto.gif)
+![Errado&Correto](https://github.com/jardimtupa/game/blob/master/imagens/dois.gif)
 
 
