@@ -1,3 +1,9 @@
+//Membros do Grupo
+//Simone Santos - RA: 20644947
+//Miguel Mlaker - RA: 21020076
+//Natalia Lima - RA: 20772347
+
+
 /Projeto arduino: "Treinamento da tabuada";
 
 //Blibiotecas utilizadas:
