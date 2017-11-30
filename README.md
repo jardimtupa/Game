@@ -30,4 +30,9 @@ A aplicação escolhe de forma aleatória dois números que são multiplicados e
 
 ![Errado&Correto](https://github.com/jardimtupa/game/blob/master/imagens/dois.gif)
 
+# Pontos interessantes na realização do projeto
+- As bibliotecas (keypad.h e LiquidCrystal.h) estão disponíveis através do gerenciador de bibliotecaa do IDE Arduino;
+- O arquivo pitches.h contém definições de notas musicais usadas na canção “Happy Birthday to You”;
+- A matriz Keymap define os caracteres do teclado;
+- A função randomSeed inicializa o gerador de números aleatórios através da  pino A7 analógico.
 
