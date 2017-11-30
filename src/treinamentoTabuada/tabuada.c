@@ -3,8 +3,7 @@
 //Miguel Mlaker - RA: 21020076
 //Natalia Lima - RA: 20772347
 
-
-/Projeto arduino: "Treinamento da tabuada";
+//Projeto arduino: "Treinamento da tabuada";
 
 //Blibiotecas utilizadas:
 #include <Keypad.h>  //Referente ao uso do "keypad" 4x4 (ou teclado matricial 4x4)
