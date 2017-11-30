@@ -2,6 +2,10 @@
 A finalidade desse projeto é mostrar como fazer a interface do Arduino com dispositivos básicos de I/O.
 Para isso, apresentamos um pequeno protótipo de um jogo para ensinar “tabuada” onde as informações são digitadas em um teclado KeyPad 4×4 e exibidos em um LCD 2×16.
 
+# Diagrama de Atividade 
+![Diagrama_Atividade](https://github.com/jardimtupa/game/blob/master/diagrama_de_atividade.PNG)
+
+
 # Materiais  Utilizados
 - 1 Arduino Uno;
 - 1 KeyPad 4x4;
